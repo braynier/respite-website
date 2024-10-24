@@ -2,7 +2,7 @@
 
 Welcome to **Respite**, a beautifully crafted web application that offers a relaxing and immersive user experience. Built with the latest **Next.js App Router**, **React Server Components**, **Server Actions**, and **NextAuth** for seamless authentication, Respite is designed to handle modern web challenges while delivering a smooth and scalable architecture.
 
-## 🔗 [Live Demo](https://your-live-app-link.com)
+## 🔗 [Live Demo](https://respite-website.vercel.app/)
 
 Experience the calming interface and smooth navigation of **Respite** by visiting the live demo above!
 
@@ -10,7 +10,7 @@ Experience the calming interface and smooth navigation of **Respite** by visitin
 
 Respite's landing page is designed with modern aesthetics and responsive layouts:
 
-![Respite Responsive Design](/public/git.png) <!-- Add a mockup image here -->
+![Respite Responsive Design](/public/mockup.png) <!-- Add a mockup image here -->
 
 ### Desktop View
 
